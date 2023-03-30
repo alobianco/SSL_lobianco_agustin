@@ -1,6 +1,6 @@
-# SSL_lobianco_agustin
-
 Repositorio para Sintaxis y Semántica de Lenguajes
+
+Alumno: Lobianco Agustin
 
 Curso K2052 
 
