@@ -1,0 +1,11 @@
+void funcion(int a , float b){
+
+}
+
+int a = 3;
+3 = a;
+float b;git 
+funcion(a, b);
+char j;
+
+
